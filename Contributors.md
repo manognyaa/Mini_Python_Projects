@@ -74,3 +74,6 @@ Place: Bhubaneswar, India
 Name: [Varun Shrivastava](https://github.com/Varun270)
 Place: India
 
+Name: [Manognya Dasika](https://github.com/manognyaa)
+Place: Vijayawada, India
+
