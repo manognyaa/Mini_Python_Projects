@@ -111,9 +111,6 @@ Place: India
 Name: [Holger Dörner](https://github.com/HolgerDoerner)
 Place: Germany
 
-Name: [Manognya Dasika](https://github.com/manognyaa)
-Place: Vijayawada, India
-
 Name: [Shashwat](https://github.com/gitshashwat)
 Place: India
 
@@ -133,3 +130,6 @@ Name: [Prathamesh Kurunkar](https://github.com/prathameshkurunkar7)
 Place: Pune, India
 Name: [Abhishek](https://github.com/abhishek213-alb)
 Place: Pune, India
+
+Name: [Manognya Dasika](https://github.com/manognyaa)
+Place: India
